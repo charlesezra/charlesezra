@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="charlesezra.github.io" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="yopocharlie | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Charles Ezra Cabauatan | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -43,7 +43,7 @@
 
 <details>
   <summary>Github Stats</summary>
-  <img align="left" alt="charlesezra's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=charlesezra&show_icons=true&hide_border=true" />
+  <img align="left" alt="charlesezra's Github Stats" src="https://github-readme-stats.charlesezra.vercel.app/api?username=charlesezra&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://charlesezra.github.io
