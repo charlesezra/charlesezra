@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="charlesezra.github.io" width="26px" src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/globe.svg" />][website]
-[<img align="left" alt="Charles Ezra Cabauatan | LinkedIn" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="Charles Ezra Cabauatan | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
