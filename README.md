@@ -1,19 +1,19 @@
-## Hi there, I'm Charles Ezra!
+# Charles Ezra Cabauatan
 
-### I'm a Student Developer!
+### 🚀 Quick Facts About Me
 
 - I'm studying Computer Science at Virginia Tech.
 - I'm looking forward to creating more projects.
 - I would like to contribute more to team-based projects.
+- I casually play guitar, and I like learning how to play songs that are catchy.
 
-### Connect with me:
+### 💻 Experience
+- <strong>Software Engineer Intern @ Maestro Technologies Inc.</strong> (Dec 2021 - Present)
+- <strong>Undergraduate Teaching Assistant @ VT Computer Science</strong> (Aug 2020 - Present)
+- Software Engineer Co-op @ Oracle Cloud Infrastructure (Jan 2021 - Aug 2021)
+- Software Engineer Intern @ VT Hume Center - Crowd Intelligence Lab (Sep 2020 - Aug 2021)
 
-[<img align="left" alt="charlesezra.github.io" width="26px" src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/globe.svg" />][website]
-[<img align="left" alt="Charles Ezra Cabauatan | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-
-<br />
-
-### Languages and Technologies:
+### ⭐️ Languages and Technologies:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -31,6 +31,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-[website]: https://charlesezra.github.io
-[twitter]: https://twitter.com/yopocharlie
+<br /><br />
+
+### ⚡️ Connect with Me
+[<img align="left" alt="Charles Ezra Cabauatan | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
 [linkedin]: https://linkedin.com/in/charlesezra
+
+<!-- Deprecated -->
+<!-- [<img align="left" alt="charlesezra.github.io" width="26px" src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/globe.svg" />][website] -->
+<!-- [website]: https://charlesezra.github.io -->
+<!-- [twitter]: https://twitter.com/yopocharlie -->
