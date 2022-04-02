@@ -1,4 +1,4 @@
-# Charles Ezra Cabauatan
+# Charles Cabauatan
 
 ### 🚀 Quick Facts About Me
 
