@@ -9,7 +9,7 @@
 
 ### 💻 Experience
 - <strong>Software Engineer Intern @ Maestro Technologies Inc.</strong> (Dec 2021 - Present)
-- <strong>Undergraduate Teaching Assistant @ VT Computer Science</strong> (Aug 2020 - Present)
+- <strong>Undergraduate Teaching Assistant @ VT Computer Science</strong> (Aug 2020 - May 2022)
 - Software Engineer Co-op @ Oracle Cloud Infrastructure (Jan 2021 - Aug 2021)
 - Software Engineer Intern @ VT Hume Center - Crowd Intelligence Lab (Sep 2020 - Aug 2021)
 
