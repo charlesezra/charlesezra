@@ -8,8 +8,8 @@
 - I casually play guitar, and I like learning how to play songs that are catchy.
 
 ### 💻 Experience
-- <strong>Software Engineer Intern @ Maestro Technologies Inc.</strong> (Dec 2021 - Present)
-- <strong>Undergraduate Teaching Assistant @ VT Computer Science</strong> (Aug 2020 - May 2022)
+- Software Engineer Intern @ Maestro Technologies Inc. (Dec 2021 - Jun 2022)
+- Undergraduate Teaching Assistant @ VT Computer Science (Aug 2020 - May 2022)
 - Software Engineer Co-op @ Oracle Cloud Infrastructure (Jan 2021 - Aug 2021)
 - Software Engineer Intern @ VT Hume Center - Crowd Intelligence Lab (Sep 2020 - Aug 2021)
 
