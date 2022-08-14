@@ -1,19 +1,21 @@
-# Charles Cabauatan
 
-### 🚀 Quick Facts About Me
+### Hi 👋
 
-- I'm studying Computer Science at Virginia Tech.
+My name is Charles, and I'm a computer science student at Virginia Tech.
+
+#### 🚀 Quick Facts About Me
+
 - I'm looking forward to creating more projects.
 - I would like to contribute more to team-based projects.
 - I casually play guitar, and I like learning how to play songs that are catchy.
 
-### 💻 Experience
-- Software Engineer Intern @ Maestro Technologies Inc. (Dec 2021 - Jun 2022)
+#### 💻 Work Experience
+- Full Stack Software Engineer Intern @ Maestro Technologies Inc. (Dec 2021 - Jun 2022)
 - Undergraduate Teaching Assistant @ VT Computer Science (Aug 2020 - May 2022)
 - Software Engineer Co-op @ Oracle Cloud Infrastructure (Jan 2021 - Aug 2021)
 - Software Engineer Intern @ VT Hume Center - Crowd Intelligence Lab (Sep 2020 - Aug 2021)
 
-### ⭐️ Languages and Technologies:
+#### ⭐️ Languages and Technologies:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -35,8 +37,10 @@
 
 ### ⚡️ Connect with Me
 [<img align="left" alt="Charles Ezra Cabauatan | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Charles Ezra Cabauatan | Gitlab" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />][gitlab]
 
 [linkedin]: https://linkedin.com/in/charlesezra
+[gitlab]: https://gitlab.com/charlesezra
 
 <!-- Deprecated -->
 <!-- [<img align="left" alt="charlesezra.github.io" width="26px" src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/globe.svg" />][website] -->
