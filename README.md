@@ -10,6 +10,7 @@ My name is Charles, and I'm a computer science student at Virginia Tech.
 - I casually play guitar, and I like learning how to play songs that are catchy.
 
 #### 💻 Work Experience
+- Software Development Engineer Intern @ Amazon Web Services
 - Full Stack Software Engineer Intern @ Maestro Technologies Inc. (Dec 2021 - May 2022)
 - Undergraduate Teaching Assistant @ VT Computer Science (Aug 2020 - May 2022)
 - Software Engineer Co-op @ Oracle Cloud Infrastructure (Jan 2021 - Aug 2021)
