@@ -1,22 +1,23 @@
 
 ### Hi 👋
 
-My name is Charles, and I'm a computer science student at Virginia Tech.
+My name is Charles!
 
-#### 🚀 Quick Facts About Me
+#### Quick Facts About Me
 
 - I'm looking forward to creating more projects.
 - I would like to contribute more to team-based projects.
 - I casually play guitar, and I like learning how to play songs that are catchy.
 
-#### 💻 Work Experience
-- Software Development Engineer Intern @ Amazon Web Services
-- Full Stack Software Engineer Intern @ Maestro Technologies Inc. (Dec 2021 - May 2022)
-- Undergraduate Teaching Assistant @ VT Computer Science (Aug 2020 - May 2022)
-- Software Engineer Co-op @ Oracle Cloud Infrastructure (Jan 2021 - Aug 2021)
-- Software Engineer Intern @ VT Hume Center - Crowd Intelligence Lab (Sep 2020 - Aug 2021)
+#### Work Experience
+- Software Engineer Intern:
+  - Amazon Web Services, Summer 2022
+  - Maestro Technologies Inc., Spring 2022
+  - Oracle Cloud Infrastructure, Spring & Summer 2021
+  - Virginia Tech Hume Center - Crowd Intelligence Lab, 2020 to 2021
+- Undergraduate Teaching Assistant @ Virginia Tech Computer Science
 
-#### ⭐️ Languages and Technologies:
+#### Languages and Technologies:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
